@@ -1,10 +1,10 @@
-![Project Banner](https://raw.githubusercontent.com/add-new/assets/main/imagePlaceholder.svg "This will be the final output")
+![Project Banner](./assets/preview.gif "This will be the final output")
 
-# Project Name
+# Temperature Unit Converter
 
-Excepteur cupidatat laboris excepteur pariatur est deserunt enim nisi. Incididunt sint deserunt nisi amet culpa nulla. Minim in eu ullamco officia commodo esse tempor adipisicing veniam enim aliquip. Nisi anim cillum mollit exercitation consequat commodo commodo occaecat eiusmod enim.
+t's a simple website that convert temperatures units from Celsius to Fahrenheit, Kelvin or vice versa. You just have to enter the value and select the output unit type and output will be automatic update as you change the inputs.
 
-![Output Snip](https://raw.githubusercontent.com/add-new/assets/main/imagePlaceholder.svg "This will be the final output")
+![Output Snip](./assets/output.png "This will be the final output")
 
 <p align="center">
       <a href="#">
@@ -19,28 +19,20 @@ Excepteur cupidatat laboris excepteur pariatur est deserunt enim nisi. Incididun
 ## Prerequistes
 
 <p>
-Ullamco ut labore in sint incididunt sunt. Mollit consequat deserunt voluptate qui enim qui. Dolore enim aliquip esse Lorem ex amet elit consequat dolor.
+Basics jQuery and bootstrap knowledge.
 </br>
 </br>
 </p>
 
 ## What you'll Learn
 
-- Lorem Ipsum
-- Lorem Ipsum
-- Lorem Ipsum
-- Lorem Ipsum
-
----
-
-##Let's Start
-%%Full Project Process%%
-
----
+- Calculating forumals using JS
+- DOM Manipulations
+- Realtime Update
 
 ## [Case Study](https://dev.to/karankmr/)
 
-Full Process of project is explained step by step in my blog post. [Check full case study on dev.to](https://dev.to/karankmr/)
+Full Process of project is explained step by step in my blog post. [Coming Soon....](https://dev.to/karankmr/)
 
 ---
 

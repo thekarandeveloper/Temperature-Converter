@@ -10,7 +10,7 @@ It's a simple website that convert temperatures units from Celsius to Fahrenheit
       <a href="#">
           <img src="https://raw.githubusercontent.com/add-new/assets/main/editBtn.svg" width="180"  height="auto">
     </a> &ensp;
-      <a href="#" target="_blank">
+      <a href="https://karan-kmr.github.io/temperature-converter/" target="_blank">
       <img src="https://raw.githubusercontent.com/add-new/assets/main/demoBtn.svg" width="180"  height="auto">
     </a></br>
 </br>

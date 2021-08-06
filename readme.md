@@ -7,7 +7,7 @@ It's a simple website that convert temperatures units from Celsius to Fahrenheit
 ![Output Snip](./assets/output.png "This will be the final output")
 
 <p align="center">
-      <a href="https://codesandbox.io/s/reverent-greider-z5ttz">
+      <a href="https://codesandbox.io/s/temperature-converter-z5ttz">
           <img src="https://raw.githubusercontent.com/add-new/assets/main/editBtn.svg" width="180"  height="auto">
     </a> &ensp;
       <a href="https://karan-kmr.github.io/temperature-converter/" target="_blank">

@@ -1,9 +1,9 @@
-// To prevent the submission of form
+// On Form submission prevent the default action and call the function to update the result
 
-$('form').submit((event) => event.preventDefault());
-
-// Event listners to update the result
-$('.convertBtn').click(() => convertInputDegree());
+$('form').submit(function (event) {
+    event.preventDefault();
+    convertInputDegree()
+});
 
 // Realtime Update
 $('#inputDegree').on('input', () => convertInputDegree());
